@@ -58,7 +58,7 @@ nav ul li a {
    BANNER
 ================================= */
 .banner {
-    height: 300px;
+    height: 180px;
     background: url('https://via.placeholder.com/1200x400') center/cover no-repeat;
     display: flex;
     align-items: center;
@@ -93,6 +93,16 @@ nav ul li a {
 .btn:hover {
     transform: scale(1.05);
 }
+
+.fotobenner{
+ border-radius: 20px;
+  margin: 40px auto;
+  max-width: 1200px;
+  padding: 40px 30px;
+  color: #fff;
+  overflow: hidden;
+}
+
 
 /* ================================
    PRODUK
